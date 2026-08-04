@@ -1,4 +1,3 @@
-# RT2_Assignment2
 ## Jupyter notebook package:
 This package has **Jupyter Notebooks** which helps to control the robot in the gazebo environment and serves as an user iterface node.In the action package,the user interface is simply a command line interface and through which user can 'start' or 'stop' the robot but this node will have Graphical interface with Jupyter notebook for starting and stopping the robot,contrlling the robot in required direction and also different plots can be analysed with the help of this node.
 ## Jupyter Notebook desription:
