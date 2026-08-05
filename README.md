@@ -1,4 +1,4 @@
-# RT2 Assignment 2 – Jupyter Notebook Package
+**Gazebo Robot GUI with Jupyter Notebook**
 
 This package contains a **Jupyter Notebook** interface used to control the robot in the Gazebo environment.  
 In the action package, the user interface is only a command-line interface, where the user can start or stop the robot.  
